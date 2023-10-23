@@ -1,9 +1,9 @@
 import Link from 'next/link';
 
 export default function Cabecalho() {
-    return (
+    return(
         <nav>
-            <Link href="/produtos/item/vestuario/slug">Produtos</Link>
+            <Link href="/produtos/vestuario/item">Itens</Link>
         </nav>
     )
 }
