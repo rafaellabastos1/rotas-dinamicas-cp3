@@ -1,4 +1,4 @@
-export default function Calca() {
+export default function Calca({}) {
     return(
         <>
         </>

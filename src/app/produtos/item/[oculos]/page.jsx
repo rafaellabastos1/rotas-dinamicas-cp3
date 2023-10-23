@@ -1,4 +1,4 @@
-export default function Oculos() {
+export default function Oculos({}) {
     return(
         <>
         </>

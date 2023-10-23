@@ -1,4 +1,4 @@
-export default function Bone() {
+export default function Bone({}) {
     return(
         <>
         </>

@@ -1,4 +1,4 @@
-export default function Sapato() {
+export default function Sapato({}) {
     return(
         <>
         </>
